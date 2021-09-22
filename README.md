@@ -11,3 +11,5 @@ Ejemplo Guía#6:
 https://snack.expo.dev/@aby3005/ejemplo_guia6
 
 Ejercicio Complementario Guía#6:
+
+https://snack.expo.dev/@aby3005/complementario_guia6
